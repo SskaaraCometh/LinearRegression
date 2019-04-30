@@ -1,0 +1,40 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.sln
+*.vcxproj 
+.vcxproj.filters
+.vcxproj.user
+Solution/.vs/ML_Test/v15/ipch/AutoPCH/95151fd81614947b/MAIN.ipch
+Solution/.vs/ML_Test/v15/ipch/AutoPCH/bc63f77f6d957dbb/MAIN.ipch
+Solution/.vs/ML_Test/v15/ipch/AutoPCH/f6030318dd29a736/LR.ipch
